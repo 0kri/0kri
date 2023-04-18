@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0kri
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, TS, ANGULAR
 - 📫 How to reach me -
 - sabaaoqrish@gmail.com
